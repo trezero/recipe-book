@@ -1,0 +1,1 @@
+/GitHubNoDropBox/Angular/tutorials/recipe-book/tmp/vendor-input_base_path-Jv83YiUl.tmp/0/@angular/compiler/src/schema/dom_element_schema_registry.js

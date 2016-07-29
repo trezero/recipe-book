@@ -1,0 +1,1 @@
+/GitHubNoDropBox/Angular/tutorials/recipe-book/tmp/vendor-input_base_path-2UAOGWo8.tmp/0/@angular/platform-browser/esm/src/browser/tools/common_tools.js
